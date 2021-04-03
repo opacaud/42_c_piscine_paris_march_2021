@@ -1,0 +1,6 @@
+Credentials cache: API:A0083AF4-DE73-4DFE-88C6-A741A91A0E29
+        Principal: opacaud@42.FR
+
+  Issued                Expires               Principal
+Mar  8 10:01:28 2021  Mar 15 10:01:28 2021  krbtgt/42.FR@42.FR
+Mar  8 10:01:29 2021  Mar 15 10:01:28 2021  HTTP/student-storage-2.42.fr@42.FR
