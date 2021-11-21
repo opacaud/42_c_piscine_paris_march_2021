@@ -3,9 +3,9 @@
 My work for 42 Paris' C piscine in March 2021.
 All of it following the norm of 42 school which PDF you can find here as well.
 
-## The two first modules are focused on Shell.
+## The two first modules are focused on Shell
 
-## The next ones, on C.
+## The next ones, on C
 
 Mostly recreating functions that already exist. With only the basic write function and the ones we wrote as we go.
 
@@ -28,6 +28,6 @@ The goal was to print rectangles which width and height are defined through the 
 
 There were 5 different subjects but the only difference really was the characters used to print said rectangle.
 
-## Revision for the final exam
+## Study session for the final exam
 
 There are in there a few exercises that could be asked during the final piscine exam.
