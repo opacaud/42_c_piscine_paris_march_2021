@@ -16,7 +16,7 @@ C01 | Pointers, strings and other arrays like swap, putstr, strlen, sort_tab
 C02 | Manipulate and get info on strings like strcpy, is_alpha, strupcase
 C03 | Get info on strings like strcmp, strcat, strstr
 C04 | Mixing letters and numbers like atoi, putnbr_base, atoi_base
-C05 | Some math like iterative and recursive_factorial, iterative and recursive_power, fibonacci, sqrt
+C05 | Some math like iterative and recursive factorial, power, fibonacci, sqrt
 C06 | Handling parameters like print_params, sort_params
 C07 | Malloc, pointers and strings like strdup, strjoin, convert_base, split
 C08 | Header files and structures
