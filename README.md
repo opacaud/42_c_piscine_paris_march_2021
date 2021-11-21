@@ -1,6 +1,6 @@
 # 42_c_piscine_paris_march_2021
 
-My work for 42 Paris' C Piscine in March 2021.
+My work for 42 Paris' C piscine in March 2021.
 All of it following the norm of 42 school which PDF you can find here as well.
 
 ## The two first modules are focused on Shell.
@@ -30,4 +30,4 @@ There were 5 different subjects but the only difference really was the character
 
 ## Revision for the final exam
 
-There are in there a few exercises that could be asked during the final Piscine exam.
+There are in there a few exercises that could be asked during the final piscine exam.
