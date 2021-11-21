@@ -1,4 +1,4 @@
-# 42_C_Piscine_Paris_March_2021
+# 42_c_piscine_paris_march_2021
 
 My work for 42 Paris' C Piscine in March 2021.
 All of it following the norm of 42 school which PDF you can find here as well.
