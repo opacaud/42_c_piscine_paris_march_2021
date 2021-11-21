@@ -30,4 +30,4 @@ There were 5 different subjects but the only difference really was the character
 
 ## Study session for the final exam
 
-There are in there a few exercises that could be asked during the final piscine exam.
+There are a few exercises that could be asked during the final piscine exam.
