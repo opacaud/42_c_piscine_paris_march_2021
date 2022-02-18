@@ -1,5 +1,7 @@
 # 42_c_piscine_paris_march_2021
 
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/opacaud?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
+
 My work for 42 Paris' C piscine in March 2021.
 All of it following the norm of 42 school which PDF you can find here as well.
 
